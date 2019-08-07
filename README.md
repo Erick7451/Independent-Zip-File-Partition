@@ -31,5 +31,5 @@ Aaron_Hornback
   Aaron_Lewis_0002.jpg 
   ...
   ```
-That's it! I would love to hear feedback on how this file could be improved for a more user-friendly experience.
+That's it! Enjoy!
 
